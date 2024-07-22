@@ -1,0 +1,14 @@
+#include "kernel.h"
+
+#include "components/component.h"
+
+#include "entities/entity.h"
+#include "entities/prototype.h"
+#include "entities/world.h"
+
+#include "processes/process.h"
+#include "processes/signal.h"
+#include "processes/root_process.h"
+
+#include "configuration/preferences.h"
+#include "configuration/keybindings.h"
